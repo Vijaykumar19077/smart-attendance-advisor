@@ -4,3 +4,4 @@ scipy
 networkx
 langchain
 langchain-google-genai
+langchain-groq

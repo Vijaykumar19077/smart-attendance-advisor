@@ -1,0 +1,6 @@
+streamlit
+scikit-fuzzy
+scipy
+networkx
+langchain
+langchain-google-genai
